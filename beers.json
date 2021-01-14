@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "name": "Hazy Little Thing",
+        "brewery": "Sierra Neveda"
+    },
+    {
+        "id": 2,
+        "name": "Bud Light",
+        "author": "Anheuser-Busch"
+    },
+    {
+        "name": "420",
+        "brewery": "Sweetwater"
+    }
+]
